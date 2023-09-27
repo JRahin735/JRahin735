@@ -3,6 +3,11 @@
 Rahin Jain
 
 
+1. This is supposed to be a cool profile. :)
+2. Cool stuff coming up!!!
+
+
+
 
 <!--
 **JRahin735/JRahin735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
