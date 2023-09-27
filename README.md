@@ -1,6 +1,7 @@
-### Hi there 👋
 
->>> Rahin Jain
+
+
+<b> Rahin Jain </b>
 
 
 1. This is supposed to be a cool profile. :)
